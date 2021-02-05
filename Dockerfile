@@ -1,3 +1,3 @@
 
-FROM SnyderSin/webapp
+FROM snydersin/webapp
 ADD . /var/www/html
