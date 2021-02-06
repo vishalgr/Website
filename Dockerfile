@@ -1,3 +1,3 @@
 
 FROM vishalgr/webapp
-ADD . /var/www/html
+ADD index.html /var/www/html
