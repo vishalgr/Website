@@ -1,3 +1,3 @@
 
-FROM vishalgr/webapp
-ADD index.html /var/www/html
+FROM nginx/alpine
+ADD . /usr/share/nginx/html
